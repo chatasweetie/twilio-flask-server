@@ -1,4 +1,4 @@
-Responsing to Text Messages - Twilio Python Server
+Responding to Text Messages - Twilio Python Server
 --------------------------------------------------
 
 
@@ -9,7 +9,7 @@ A python flask server that responses to text messages.
 
 **How it works**
 
-The flask server listens to request that are funneled through a secure tunnel - [ngrok](https://ngrok.com/). It sends responses to depended on what texted. 
+The flask server listens to request that are funneled through a secure tunnel - [ngrok](https://ngrok.com/). It sends responses to depended on what was texted. 
 
 Step-by-step guide on how the set up the server, ngrok and connect it to Twilio by [chatasweetie](https://chatasweetie.com/) on the post coming soon:[Twilio - Sending Text Message Demo](http://chatasweetie.com/)
 
