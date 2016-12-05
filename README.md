@@ -19,13 +19,6 @@ Step-by-step guide on how the set up the server, ngrok and connect it to Twilio 
 Python, Flask, & ngrok
 
 
-### Screenshot
-
-**Script being run**
-
-<img src="img/script.png">
-
-
 ### How to run Script locally
 
 Create a virtual environment 
