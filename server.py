@@ -5,7 +5,7 @@ from messages import responses
 app = Flask(__name__)
 
 
-@app.route("/", methods=['GET', 'POST'])
+@app.route("/", methods=["GET", "POST"])
 def hello():
     """Sends text message"""
 

@@ -11,7 +11,7 @@ A python flask server that responses to text messages.
 
 The flask server listens to request that are funneled through a secure tunnel - [ngrok](https://ngrok.com/). It sends responses to depended on what was texted. 
 
-Step-by-step guide on how the set up the server, ngrok and connect it to Twilio by [chatasweetie](https://chatasweetie.com/) on the post coming soon:[Twilio - Sending Text Message Demo](http://chatasweetie.com/)
+Step-by-step guide on how the set up the server, ngrok and connect it to Twilio by [chatasweetie](https://chatasweetie.com/) on the post:[Twilio - 2 Ways of Sending Text Message](http://chatasweetie.com/2016/12/19/twilio-2-ways-of-sending-text-message)
 
 
 ### Technology Stack
@@ -33,6 +33,8 @@ Install the dependencies
 ```
 $ pip install -r requirements.txt
 ```
+
+Download [ngrok](https://ngrok.com/)
 
 Run ngrok
 ```
